@@ -144,7 +144,7 @@ h3 { font-size: 1.05rem; margin: 1.5rem 0 .25rem; }
 }
 
 .features { list-style: none; padding: 0; display: grid; gap: 1rem; margin: 2rem 0; }
-@media (min-width: 40rem) { .features { grid-template-columns: repeat(3, 1fr); } }
+@media (min-width: 40rem) { .features { grid-template-columns: repeat(2, 1fr); } }
 .features li {
   background: var(--surface);
   border: 1px solid var(--border);
